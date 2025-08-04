@@ -1,0 +1,5 @@
+#base "scheme/colors.res"
+#base "scheme/fonts.res"
+//#base "scheme/fonts_msg.res"
+#base "scheme/borders.res"
+#base "scheme/fontpaths.res"
