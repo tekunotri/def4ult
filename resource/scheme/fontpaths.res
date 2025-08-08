@@ -17,7 +17,7 @@ Scheme
 				"range" "0x0000 0xFFFF"
 			}
 		}
-		"4" 
+		"4"
 		{
 			"font" "resource/TF2Secondary.ttf"
 			"name" "TF2 Secondary"
@@ -30,7 +30,7 @@ Scheme
 				"range" "0x0000 0xFFFF"
 			}
 		}
-		"5" 
+		"5"
 		{
 			"font" "resource/TF2Professor.ttf"
 			"name" "TF2 Professor"
@@ -42,8 +42,8 @@ Scheme
 			{
 				"range" "0x0000 0x00FF"
 			}
-		}	
-		"6" 
+		}
+		"6"
 		{
 			"font" "resource/TF2Build.ttf"
 			"name" "TF2 Build"
@@ -59,7 +59,7 @@ Scheme
 			{
 				"range" "0x0000 0xFFFF"
 			}
-		}			
+		}
 		"7"
 		{
 			"font"	"resource/ocra.ttf"
@@ -139,6 +139,10 @@ Scheme
             "font" "resource/scheme/fonts/msgothic.ttc"
             "name" "MS PGothic"
         }
-        
+		"20"
+		{
+			"font" "resource/scheme/fonts/utsukushifont.otf"
+			"name" "02UtsukushiMincho"
+		}
 	}
 }
