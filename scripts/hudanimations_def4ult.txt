@@ -4,8 +4,6 @@ event HudSpyDisguiseHide{}
 event HudSpyDisguiseFadeIn{}
 event HudSpyDisguiseFadeOut{}
 //===========================================
-//===========================================
-
 event HudLowAmmoPulse
 {
 	Animate AmmoInClip 		FgColor 	"LightRed" 	Linear 	0.0 0.075
@@ -19,7 +17,6 @@ event HudLowAmmoPulse
 
 	RunEvent HudLowAmmoPulseLoop	0.25
 }
-
 // call to loop HudLowAmmoPulse
 event HudLowAmmoPulseLoop
 {
@@ -35,5 +32,7 @@ event HudLowAmmoPulseStop
 	StopEvent HudLowAmmoPulse 0.0
 	StopEvent HudLowAmmoPulseLoop 0.0
 }
-
 //===========================================
+
+event CompetitiveGame_LowerChatWindow{}
+event HudTournament_MoveChatWindow{}

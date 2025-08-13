@@ -2633,5 +2633,15 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		"KLFont"
+		{
+			"1"
+			{
+				"name"		"Verdana"
+				"tall"		"11"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
     }
 }

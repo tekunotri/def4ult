@@ -24,10 +24,10 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"HudWeaponLowAmmoImage"
-		"xpos"			"4"
-		"xpos_minmode"	"28"
+		"xpos"			"9999" //there were remnants appearing so its proper nuked now
+		"xpos_minmode"	"0"
 		"ypos"			"0"
-		"ypos_minmode"	"7"
+		"ypos_minmode"	"0"
 		"zpos"			"0"
 		"wide"			"0"
 		"tall"			"0"
