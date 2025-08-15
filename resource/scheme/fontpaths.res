@@ -144,5 +144,10 @@ Scheme
 			"font" "resource/scheme/fonts/utsukushifont.otf"
 			"name" "02UtsukushiMincho"
 		}
+		"21"
+		{
+			"font" "resource/scheme/fonts/surface_medium.otf"
+			"name" "surface_medium"
+		}
 	}
 }
