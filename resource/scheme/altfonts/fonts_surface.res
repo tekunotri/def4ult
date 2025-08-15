@@ -2637,7 +2637,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"surface_medium"
 				"tall"		"12"
 				"weight"	"500"
 				"additive"	"0"

@@ -2638,7 +2638,7 @@ Scheme
 			"1"
 			{
 				"name"		"Verdana"
-				"tall"		"11"
+				"tall"		"10"
 				"additive"	"0"
 				"antialias" "1"
 			}

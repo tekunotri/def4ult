@@ -2637,7 +2637,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"02UtsukushiMincho"
 				"tall"		"12"
 				"weight"	"500"
 				"additive"	"0"
