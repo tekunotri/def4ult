@@ -2,6 +2,7 @@ Scheme
 {
 	Colors
 	{
+		//used for too much bs i dont feel like changing
         "Main"              "113 194 132 255"
 		// base colors
 		"Orange"			"178 82 22 255"
@@ -36,8 +37,6 @@ Scheme
 		"Yellow"			"251 235 202 255"
 		"TransparentYellow"	"251 235 202 140"
 		"BrightYellow"		"251 235 0 255"
-		//"Black"				"0 0 0 255"
-		//Changed black to a NTSC safe color
 		"GreenSolid"		 "76 107 34 255"
 		
 		"Black"				"0 0 0 255"
@@ -53,7 +52,7 @@ Scheme
 		"HUDDeathWarning"	"255 0 0 255"
 		"HudWhite"			"255 255 255 255"
 		"HudOffWhite"		"200 187 161 255"
-		"HudBlack"			"65 65 65 255"
+		"HudBlack"			"19 19 19 255"
 		"ProgressBarBlue"	"91 122 142 255"
 		
 		"CreditsGreen"		"94 150 49 255"

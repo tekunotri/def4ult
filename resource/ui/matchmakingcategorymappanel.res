@@ -42,7 +42,7 @@
 		"labeltext"									"%title_token%"
 		"textAlignment"								"west"
 		"font"										"HudFontSmallest"
-		"AllCaps"									"1"
+		"AllCaps"									"0"
 		"textinsetx"								"20"
 		"use_proportional_insets"					"1"
 
