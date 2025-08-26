@@ -2638,7 +2638,7 @@ Scheme
 			"1"
 			{
 				"name"		"surface_medium"
-				"tall"		"12"
+				"tall"		"10"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"

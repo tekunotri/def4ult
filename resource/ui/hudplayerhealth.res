@@ -17,6 +17,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"HealthBonusPosAdj"	"15"
+		"HealthBonusPosAdj_minmode" "35" //15 nearly gets nuked on minmode for some reason
 		"HealthDeathWarning"	"0.49"
 		"HealthDeathWarningColor"	"HUDDeathWarning"
 	}

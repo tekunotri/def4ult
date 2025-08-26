@@ -211,9 +211,9 @@
 	{
 		"fieldName"				"CHealthAccountPanel"
 		"xpos"					"76"
-		"xpos_minmode"			"61"
+		"xpos_minmode"			"51"
 		"ypos"					"r152"
-		"ypos_minmode"			"r134"
+		"ypos_minmode"			"r111"
 		"wide"					"116"
 		"tall"  				"180"
 		"visible" 				"1"
@@ -240,6 +240,7 @@
 		"visible"	"1"
 		"enabled"	"1"
 		"xpos"		"40"	[$WIN32]
+		"xpos_minmode"	"70"
 		"ypos"		"r53"	[$WIN32]
 		"xpos"		"50"	[$X360]
 		"ypos"		"330"	[$X360]
@@ -355,15 +356,12 @@
 	{
 		"ControlName"		"CCurrencyStatusPanel"
 		"fieldName"			"CurrencyStatusPanel"
-		"xpos"				"0"
-		"ypos"				"r100"
+		"xpos"				"rs1-100"
+		"ypos"				"r88"
 		"wide"				"100"
 		"tall"				"100"
-		"xpos_minmode"		"65"
-		"ypos_minmode"		"r88"
 		"visible" 			"0"
 		"enabled" 			"1"
-		
 		"PaintBackgroundType"	"2"
 	}
 	
@@ -510,7 +508,7 @@
 		"CornerRadius"	  "3"
 		"RightJustify"	  "1"	// If 1, draw notices from the right
 		
-		"TextFont"		"KLFont"
+		"TextFont"		"KLFont" //this is set per-font, check
 		
 		"TeamBlue"		"HUDBlueTeamSolid"
 		"TeamRed"		"HUDRedTeamSolid"
