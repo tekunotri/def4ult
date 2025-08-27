@@ -2633,13 +2633,13 @@ Scheme
 				"antialias" "1"
 			}
 		}
-		"KLFont"
+		"KLFont" //i give up figuring out the combination to make killfeed font correct.
 		{
 			"1"
 			{
 				"name"		"Verdana"
-				"tall"		"10"
-				"weight"	"900"
+				"tall"		"9"
+				"weight"	"700"
 				"additive"	"0"
 				"antialias" "1"
 			}

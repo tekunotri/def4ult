@@ -128,7 +128,7 @@
 		"fieldName"		"classmodelpanel"
 		
 		"xpos"			"0"	[$WIN32]
-		"xpos_minmode"	"10"	[$WIN32]
+		"xpos_minmode"	"0"	[$WIN32]
 		"ypos"			"r214"	[$WIN32]
 		"ypos_minmode"	"r88"	[$WIN32]
 		"zpos"			"2"		
