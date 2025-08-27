@@ -12,6 +12,7 @@
 		"enabled"		"1"
 		"xpos"			"c-37"
 		"ypos"			"r115"
+		"ypos_minmode"	"r110"
 		"wide"			"74"
 		"tall"			"6"
 		"tall_minmode"			"4"
