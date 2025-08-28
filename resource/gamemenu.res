@@ -4,11 +4,11 @@
 	{
 		"command"								"engine"
 		"OnlyAtMenu"							"1"
-	}	
+	}
 	"def4ult"
 	{
 		"label" 								"def4ult"
-		"command" 								"engine con_enable 1; toggleconsole; echo what"
+		"command" 								"engine con_enable 1; toggleconsole; echo klown 2; echo github.com/tekunotri/def4ult"
 	}
 	"Servers"
 	{

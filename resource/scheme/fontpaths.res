@@ -149,5 +149,15 @@ Scheme
 			"font" "resource/scheme/fonts/surface_medium.otf"
 			"name" "surface_medium"
 		}
+		"22"
+		{
+			"font"	"resource/scheme/fonts/catamaran.ttf"
+			"name"	"catamaran_semibold"
+		}
+		"23"
+		{
+			"font"	"resource/scheme/fonts/volkswagen-bold.ttf"
+			"name"	"Volkswagen-Bold"
+		}
 	}
 }
