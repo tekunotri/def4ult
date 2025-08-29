@@ -234,16 +234,15 @@
 	}
 	
 	
-	DisguiseStatus //todo: move this somewhere better for minmode
+	DisguiseStatus 
 	{
 		"fieldName" "DisguiseStatus"
 		"visible"	"1"
 		"enabled"	"1"
-		"xpos"		"40"	[$WIN32]
-		"xpos_minmode"	"95"
-		"ypos"		"r53"	[$WIN32]
-		"xpos"		"50"	[$X360]
-		"ypos"		"330"	[$X360]
+		"xpos"		"-50"	
+		"xpos_minmode"	"-50"
+		"ypos"		"r155"
+		"ypos_minmode"	"r120"
 		"wide"		"500"
 		"tall"		"200"
 		"TextFont"	"Default"	[$X360]
