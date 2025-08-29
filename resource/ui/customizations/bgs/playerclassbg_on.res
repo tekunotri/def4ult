@@ -11,4 +11,10 @@
 		"visible"		"1"
 		"enabled"		"1"
 	}
+	"PlayerStatusClassImageBG"
+	{
+		"wide"			"100"
+		"tall"			"50"
+	}
+
 }
