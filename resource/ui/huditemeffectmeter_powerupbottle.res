@@ -11,7 +11,7 @@
 		"wide"										"30"
 		"tall"										"30"
 		"MeterFG"									"White"
-		"MeterBG"									"TransparentDarkGray"
+		"MeterBG"									"TransparentBlack"
 	}
 	"ItemEffectIcon"
 	{
@@ -42,7 +42,7 @@
 		"proportionaltoparent"						"1"
 		"labelText"									"/"
 		"textAlignment"								"center"
-		"font"										"Icons14"
+		"font"										"Symbols14"
 		"fgcolor"									"Black"
 	}
 	"ItemEffectMeterCount"

@@ -3,6 +3,6 @@
 {
 	HudItemEffectMeter
 	{
-		"ypos"			"r105"	
+		"ypos"			"r105"	[$WIN32]
 	}
 }

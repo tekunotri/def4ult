@@ -3,7 +3,7 @@
 {
 	HudItemEffectMeter
 	{
-		"ypos"			"r95"
-		"ypos_minmode"	"r100"
+		"ypos"			"r95"	[$WIN32]
 	}
+
 }
