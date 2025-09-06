@@ -1,4 +1,4 @@
-"Resource/UI/HudItemEffectMeter_Scout.res" 
+"Resource/UI/HudItemEffectMeter_Scout.res" //TODO: pretty this up a little bit or fix during SF
 {
 	HudItemEffectMeter
 	{
@@ -24,6 +24,7 @@
 		"wide"			"150"
 		"tall"			"75"
 		"visible"		"0"
+		"visible_minmode"	"0"
 		"enabled"		"1"
 		"image"			"../hud/misc_ammo_area_horiz2_blue"
 		"scaleImage"	"1"
@@ -56,7 +57,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"HudFontSmall"
+		"font"					"HudFont14"
 		"font_minmode"					"TFFontSmall"
 	}
 
@@ -104,7 +105,7 @@
 		"textAlignment_minmode"			"west"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"IntroMenuCaption"
+		"font"					"HudFont18"
 		"font_minmode"					"TFFontSmall"
 	}
 }
