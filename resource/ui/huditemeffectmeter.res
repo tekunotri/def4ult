@@ -16,7 +16,7 @@
 		"tall"			"6"
 		"MeterFG"		"White"
 		"MeterBG"		"Gray"
-		"bgcolor_override"	"ItemMeterBG"
+		"bgcolor_override"	"ProgressBackground"
 	}
 
 	"ItemEffectMeterBG"
@@ -76,5 +76,21 @@
 		"textAlignment"			"west"
 		"dulltext"				"0"
 		"brighttext"			"0"
+	}
+	"mod"
+	{
+		"ControlName"								"ImagePanel"
+		"fieldName"									"mod"
+		"xpos"										"cs-0.5"
+		"ypos"										"0"
+		"zpos"										"55"
+		"wide"										"f0"
+		"tall"										"6"
+		"visible"									"1"
+		"enabled"									"1"
+		"proportionaltoparent"						"1"
+		"image" 									"replay/thumbnails/mod"
+		"scaleImage" 								"1"
+		"drawcolor" 								"TanLight"  //tanlight is fine too..
 	}
 }
