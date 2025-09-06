@@ -507,7 +507,7 @@
 		"CornerRadius"	  "3"
 		"RightJustify"	  "1"	// If 1, draw notices from the right
 
-		"TextFont"			"KLFont"
+		"TextFont"			"KLFont" //nuke this to hide killfeed, doesn't work with streamer mode customizations
 
 		"TeamBlue"		"HUDBlueTeamSolid"
 		"TeamRed"		"HUDRedTeamSolid"
