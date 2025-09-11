@@ -1253,7 +1253,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"KDcolon"
-			"font"			"HudFont24Bold"
+			"font"			"HudFontMediumBold"
 			"labelText"		":"
 			"textAlignment"		"west"
 			"xpos"			"158"
@@ -1270,7 +1270,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"KDcolonShadow"
-			"font"			"HudFont24Bold"
+			"font"			"HudFontMediumBold"
 			"labelText"		":"
 			"fgcolor"	"black"
 			"textAlignment"		"west"
@@ -1356,7 +1356,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"KillsWhite"
-			"font"			"HudFont24Bold"
+			"font"			"HudFontMediumBold"
 			"labelText"		"%kills%"
 			"fgcolor" 	"white"
 			"textAlignment"		"east"
@@ -1374,7 +1374,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"KillsShadow"
-			"font"			"HudFont24Bold"
+			"font"			"HudFontMediumBold"
 			"labelText"		"%kills%"
 			"fgcolor" 	"black"
 			"textAlignment"		"east"
@@ -1392,7 +1392,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"Deaths"
-			"font"			"HudFont24Bold"
+			"font"			"HudFontMediumBold"
 			"labelText"		"%deaths%"
 			"textAlignment"		"west"
 			"xpos"			"175"
@@ -1409,7 +1409,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"DeathsWhite"
-			"font"			"HudFont24Bold"
+			"font"			"HudFontMediumBold"
 			"labelText"		"%deaths%"
 			"textAlignment"		"west"
 			"fgcolor"	"white"
@@ -1427,7 +1427,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"DeathsShadow"
-			"font"			"HudFont24Bold"
+			"font"			"HudFontMediumBold"
 			"labelText"		"%deaths%"
 			"textAlignment"		"west"
 			"fgcolor"	"black"
@@ -1480,7 +1480,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"AssistsWhite"
-			"font"			"HudFont24Bold"
+			"font"			"HudFontMediumBold"
 			"labelText"		"%assists%"
 			"textAlignment"		"west"
 			"fgcolor"	"white"
@@ -1498,7 +1498,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"AssistsShadow"
-			"font"			"HudFont24Bold"
+			"font"			"HudFontMediumBold"
 			"labelText"		"%assists%"
 			"textAlignment"		"west"
 			"fgcolor"	"black"

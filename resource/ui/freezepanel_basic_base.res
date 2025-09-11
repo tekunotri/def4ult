@@ -9,7 +9,7 @@
 	}
 	"itempanel"
 	{
-		"xpos"			"r200"	// r200 Default
+		"xpos"			"200"	// r200 Default
 		"ypos"			"0"		// 0 Default
 	}
 	"FreezePanelBase"	[$X360]
