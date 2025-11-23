@@ -2644,5 +2644,26 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		"tf216blur"
+		{
+			"1"
+			{
+				"name"			"TF2"
+				"tall"			"16"
+				"weight"		"500"
+				"additive"		"0"
+				"antialias" 	"1"
+				"blur"		    "3"
+			}
+		}
+		"MaxHealth"
+		{
+			"1"{"name" "Arial" "tall" "12" "weight" "0" "range" "0x0000 0x017F" "yres" "480 599"}
+			"2"{"name" "Arial" "tall" "13" "weight" "0" "range" "0x0000 0x017F" "yres" "600 767"}
+			"3"{"name" "Arial" "tall" "14" "weight" "0" "range" "0x0000 0x017F" "yres" "768 1023"}
+			"4"{"name" "Arial" "tall" "20" "weight" "0" "range" "0x0000 0x017F" "yres" "1024 1199"}
+			"5"{"name" "Arial" "tall" "9" "weight" "0" "range" "0x0000 0x017F"}
+			"6"{"name" "Arial" "tall" "12" "weight" "0" "range" "0x0000 0x00FF"}
+		}
     }
 }

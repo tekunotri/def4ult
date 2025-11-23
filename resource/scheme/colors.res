@@ -4,6 +4,9 @@ Scheme
 	{
 		//used for too much bs i dont feel like changing
         "Main"              "113 194 132 255"
+		"CustomGray"		"20 20 20 255"
+		"CustomLightGreen"	"150 255 150 255"
+
 		// base colors
 		"Orange"			"178 82 22 255"
 		"OrangeDim"			"178 82 22 120"

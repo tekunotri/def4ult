@@ -2644,5 +2644,17 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		"tf216blur"
+		{
+			"1"
+			{
+				"name"			"Volkswagen-Bold"
+				"tall"			"16"
+				"weight"		"500"
+				"additive"		"0"
+				"antialias" 	"1"
+				"blur"		    "3"
+			}
+		}
     }
 }

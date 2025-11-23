@@ -16,5 +16,8 @@
 		"wide"			"100"
 		"tall"			"50"
 	}
-
+		"classmodelpanel"
+	{
+		"ypos"			"r214"
+	}
 }

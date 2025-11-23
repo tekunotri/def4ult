@@ -2,7 +2,6 @@
 {
 	"HudWeaponAmmoBG"
 	{
-
 		"wide"			"90"
 		"tall"			"45"
 		"visible"		"1"

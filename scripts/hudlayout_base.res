@@ -23,7 +23,7 @@
 		"xpos"	"r131"	[$X360]
 		"ypos"	"r77"	[$X360]
 		"wide"	"94"
-		"tall"	"45"
+		"tall"	"50"
 	}
 
 	HudObjectiveStatus
@@ -355,7 +355,7 @@
 	{
 		"ControlName"		"CCurrencyStatusPanel"
 		"fieldName"			"CurrencyStatusPanel"
-		"xpos"				"rs1-100"
+		"xpos"				"c-120"
 		"ypos"				"r88"
 		"wide"				"100"
 		"tall"				"100"
@@ -1043,7 +1043,7 @@
 		"fieldName"		"HudDemomanPipes"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"r139"	[$WIN32]
+		"xpos"			"r144"	[$WIN32]
 		"xpos_minmode"	"r110"	[$WIN32]
 		"ypos"			"r52"	[$WIN32]
 		"ypos_minmode"	"r30"	[$WIN32]
