@@ -15,7 +15,7 @@
 	}
 	"DamageAccountValue"
 	{
-		"fgcolor"		"153 0 255 255"
+		"fgcolor"		255 255 255 255"
 		
 		"ControlName"	"ceXLabel"
 		"fieldName"		"DamageAccountValue"
